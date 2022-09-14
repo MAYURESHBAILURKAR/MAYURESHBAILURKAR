@@ -39,7 +39,7 @@
     <a href="https://github.com/MAYURESHBAILURKAR"><img alt="Arpit's Github Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=MAYURESHBAILURKAR&theme=tokyonight&hide_border=false&hide_border=true" /></a>
     </p>
     
- <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MAYURESHBAILURKAR&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact&hide_border=true" alt="MAYURESHBAILURKAR" /></p>
+ <p align="center"><a href="https://github.com/MAYURESHBAILURKAR"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MAYURESHBAILURKAR&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact&hide_border=true" alt="MAYURESHBAILURKAR" /></p>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=MAYURESHBAILURKAR&icon=0&color=0)](https://visitcount.itsvg.in)
