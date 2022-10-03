@@ -53,22 +53,3 @@
   <img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg">
  </p>
  
- 
- 
- <p align="center">
-    <a href="https://github.com/MAYURESHBAILURKAR/github-readme-streak-stats">
-        <img title=":fire: Get streak stats for your profile at git.io/streak-stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=MAYURESHBAILURKAR&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
-</p>
-  <p align="center">
-    <a href="https://github.com/MAYURESHBAILURKAR/github-readme-stats"><img alt="Akshaykumar24's Github Stats" src="https://github-readme-stats.vercel.app/api?username=MAYURESHBAILURKAR&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-    </p>
-    <!-- <p align="center">
-  <a href="https://github.com/MAYURESHBAILURKAR/github-readme-stats"><img alt="Akshaykumar24's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MAYURESHBAILURKAR&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a></p> -->
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshaykumar24&theme=react&hide_border=true&bg_color=0D1117" height="260px" width="33.25%"/>
-    </p>
- 
- 
- 
- 
