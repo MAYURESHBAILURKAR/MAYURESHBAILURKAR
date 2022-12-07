@@ -47,7 +47,7 @@
 ---
 
 
-[![Mayuresh Bailurkar GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=mayureshbailurkar&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true)](https://github.com/mayureshbailurkar)
+[![Mayuresh Bailurkar GitHub activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=mayureshbailurkar&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true)](https://github.com/mayureshbailurkar)
 
 <br/>
 
