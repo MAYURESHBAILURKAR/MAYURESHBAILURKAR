@@ -28,7 +28,7 @@
 <a href="https://mayureshbailurkar.github.io/" target="_blank" >
 <img src="https://img.shields.io/badge/Portfolio-FF3850?style=for-the-badge&logo=Linkfire&logoColor=white" alt="Portfolio" /></a>
 <a href="mailto:mayureshbailurkar@gmail.com" target="_blank" >
-<img src="https://img.shields.io/badge/Pratik%20Derepatil-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+<img src="https://img.shields.io/badge/Mayuresh%20Bailurkar-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
 <a href="https://drive.google.com/drive/u/0/folders/1l2t8-7m125iSofTZeHUamNieH7YV_QEn&export=download" target="_blank" >
 <img src="https://img.shields.io/badge/Resume-ffb005?style=for-the-badge&logo=Google%20Drive&logoColor=black&?labelColor=white" alt="Resume"/></a>
 </p>
