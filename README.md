@@ -28,7 +28,7 @@
 <img src="https://img.shields.io/badge/Portfolio-FF3850?style=for-the-badge&logo=Linkfire&logoColor=white" alt="Portfolio" /></a>
 <a href="mailto:mayureshbailurkar@gmail.com" target="_blank" >
 <img src="https://img.shields.io/badge/Mayuresh%20Bailurkar-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-<a href="https://drive.google.com/uc?export=download&id=1uWC2uFy5cJHZTS3Z5jdEkI8s3ygk6fk5" target="_blank" >
+<a href="https://drive.google.com/uc?export=download&id=1drZLpMkpz8HBBsL0NrvUvUR1mtOBz2NT" target="_blank" >
 <img src="https://img.shields.io/badge/Resume-ffb005?style=for-the-badge&logo=Google%20Drive&logoColor=black&?labelColor=white" alt="Resume"/></a>
 </p>
 
