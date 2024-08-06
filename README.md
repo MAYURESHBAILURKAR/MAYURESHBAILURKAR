@@ -55,9 +55,11 @@
 ---
 
 
-[![Mayuresh Bailurkar GitHub activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=mayureshbailurkar&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true)](https://github.com/mayureshbailurkar)
+[![Mayuresh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Mayureshbailurkar&bg_color=1c1c1c&color=4c8e9e&line=2bd7ee&point=303030&area=true&hide_border=true)](https://github.com/mayureshbailurkar/github-readme-activity-graph)
 
-[![Github Activity graph](https://activity-graph.herokuapp.com/graph?username=mayureshbailurkar&theme=react-dark&hide_border=true&custom_title=Activity%20Graph)](https://github.com/MrKrishnaAgarwal/readme-components-github)
+<br/>
+ <p align="center">
+<a href="https://github.com/MAYURESHBAILURKAR"><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MAYURESHBAILURKAR&theme=radical&hide_border=true" alt="MAYURESHBAILURKAR" /></p>
 
 <br/>
 
