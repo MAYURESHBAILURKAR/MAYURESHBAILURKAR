@@ -57,6 +57,8 @@
 
 [![Mayuresh Bailurkar GitHub activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=mayureshbailurkar&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true)](https://github.com/mayureshbailurkar)
 
+[![Github Activity graph](https://activity-graph.herokuapp.com/graph?username=mayureshbailurkar&theme=react-dark&hide_border=true&custom_title=Activity%20Graph)](https://github.com/MrKrishnaAgarwal/readme-components-github)
+
 <br/>
 
 <p align="center">
