@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **MongoDb**
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://mayureshbailurkar.github.io/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://mayuresh-portfolio.pages.dev/)
 
 - 💬 Ask me about **Javascript, React, CSS, HTML**
 
