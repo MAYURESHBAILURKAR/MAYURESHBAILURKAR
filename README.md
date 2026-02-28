@@ -16,7 +16,7 @@
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://mayuresh-portfolio.pages.dev/)
 
-- 💬 Ask me about **Angular,Javascript, React, Pyhton, MongoDb, CSS, HTML, Ionic Angular**
+- 💬 Ask me about **Angular, Javascript, React, Pyhton, MongoDb, CSS, HTML, Ionic Angular**
 
 - 📫 How to reach me **mayureshbailurkar@gmail.com**
 
