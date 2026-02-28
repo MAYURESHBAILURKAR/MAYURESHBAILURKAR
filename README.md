@@ -12,11 +12,11 @@
 
 - 🔭 I’m currently pursuing  **Full Stack Web Development**
 
-- 🌱 I’m currently learning **MongoDb**
+<!--  - 🌱 I’m currently learning **MongoDb** -->
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://mayuresh-portfolio.pages.dev/)
 
-- 💬 Ask me about **Javascript, React, CSS, HTML**
+- 💬 Ask me about **Angular,Javascript, React, Pyhton, MongoDb, CSS, HTML, Ionic Angular**
 
 - 📫 How to reach me **mayureshbailurkar@gmail.com**
 
