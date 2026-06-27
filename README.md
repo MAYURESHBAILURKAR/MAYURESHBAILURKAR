@@ -1,6 +1,6 @@
 ![MasterHead](https://user-images.githubusercontent.com/80781196/190216139-7697aa5a-c9a0-4bd6-80bf-3aca76a2e1c8.gif)
 <!-- <h1 align="center">Hi 👋, I'm Mayuresh Bailurkar</h1> -->
-<img src="http://readme-typing-svg.herokuapp.com?font=Josefin+Slab&pause=1000&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Mayuresh+Bailurkar;Full+Stack+Web+Development...👨🏻‍💻;" style="width: 100%;">
+<img src="http://readme-typing-svg.herokuapp.com?font=Josefin+Slab&pause=1000&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Mayuresh+Bailurkar;Full+Stack+Web+Developer...👨🏻‍💻;" style="width: 100%;">
 
 
 <h3 align="center">A passionate developer with A Civil Engg Degree 👨‍💻</h3>
@@ -24,7 +24,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/mayuresh-bailurkar/" target="_blank" >
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" /></a>
-<a href="https://mayureshbailurkar.github.io/" target="_blank" >
+<a href="https://mayuresh-portfolio.pages.dev/" target="_blank" >
 <img src="https://img.shields.io/badge/Portfolio-FF3850?style=for-the-badge&logo=Linkfire&logoColor=white" alt="Portfolio" /></a>
 <a href="mailto:mayureshbailurkar@gmail.com" target="_blank" >
 <img src="https://img.shields.io/badge/Mayuresh%20Bailurkar-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
