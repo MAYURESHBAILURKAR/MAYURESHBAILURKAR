@@ -10,7 +10,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mayureshbailurkar&label=Profile%20views&color=0e75b6&style=flat" alt="mayureshbailurkar" /> </p>
 
-- 🔭 I’m currently pursuing  **Full Stack Web Development**
+- 🔭 Full Stack Developer (Angular · React · Node.js · MERN · MEAN) | Building scalable web & mobile apps for fintech, banking & loyalty platforms | 3+ yrs turning complex requirements into fast, clean products.
 
 <!--  - 🌱 I’m currently learning **MongoDb** -->
 
