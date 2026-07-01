@@ -12,8 +12,6 @@
 
 - 🔭 Full Stack Developer (Angular · React · Node.js · MERN · MEAN) | Building scalable web & mobile apps for fintech, banking & loyalty platforms | 3+ yrs turning complex requirements into fast, clean products.
 
-<!--  - 🌱 I’m currently learning **MongoDb** -->
-
 - 👨‍💻 All of my projects are available at [Portfolio](https://mayuresh-portfolio.pages.dev/)
 
 - 💬 Ask me about **Angular, Javascript, React, Pyhton, MongoDb, CSS, HTML, Ionic Angular**
